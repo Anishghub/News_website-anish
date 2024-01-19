@@ -1,0 +1,12 @@
+.background,.background:hover{
+    background-color: rgb(36, 5, 13);
+}
+.card-title{
+    height: 133px;
+}
+.card-text{
+    height: 180px;
+}
+.date-and-soure{
+  font-size: 12px;
+}
